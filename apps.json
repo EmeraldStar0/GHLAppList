@@ -193,7 +193,7 @@
       "name": "Golden Balloon (Diddy Kong Racing)",
       "repository": "akratch/goldenballoon",
       "folderName": "GoldenBalloon",
-      "appIconUrl": "https://github.com/akratch/goldenballoon/blob/main/dist/web/assets/logo.png?raw=true"
+      "appIconUrl": "https://raw.githubusercontent.com/akratch/golden-balloon/refs/heads/main/assets/icon-512.png"
     },
     {
       "name": "Paper Mario ReCut",
