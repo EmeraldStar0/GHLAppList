@@ -29,6 +29,15 @@
     }
   ],
 
+  "DS Ports": [
+    {
+      "name": "Pokemon Platinum PC Port",
+      "repository": "cybervisi0n/pokeplatinum",
+      "folderName": "pokeplatinum",
+      "appIconUrl": "https://raw.githubusercontent.com/cybervisi0n/pokeplatinum/refs/heads/pc_port/platinum.us/icon.png"
+    }
+  ],
+
   "N64 Ports": [
     {
       "name": "Banjo 64: Recompiled",
