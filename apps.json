@@ -267,6 +267,12 @@
       "folderName": "ApeEscapeRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/d28a3097fa7cf63ad01c4f328314e2f2.png"
     },
+	 {
+      "name": "Crash Bandicoot Recomp",
+      "repository": "Matteo842/CrashBandicoot-Launcher",
+      "folderName": "CrashBandicoot",
+      "appIconUrl": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/main/icon.png?raw=true"
+    },
 	{
       "name": "Mega Man X6 Recomp",
       "repository": "mstan/MegaManX6Recomp",
