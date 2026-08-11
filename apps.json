@@ -61,6 +61,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/c1f22f4c38899f51f1ed3ce20120bbd9.png"
     },
     {
+      "name": "Diddy Kong Racing Recompiled",
+      "repository": "ThatGuyMcd/DKR-R",
+      "folderName": "DiddyKongRacing-Recompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5e9199f65abd9c10124f2f35e294f91b/32/256x256.png"
+    },
+    {
       "name": "Dinosaur Planet: Recompiled",
       "repository": "DinosaurPlanetRecomp/dino-recomp",
       "folderName": "DinoPlanetRecompiled",
@@ -71,6 +77,12 @@
       "repository": "theboy181/drmario64_recomp_plus",
       "folderName": "DRMario64RecompiledPlus",
       "appIconUrl": "https://raw.githubusercontent.com/theboy181/drmario64_recomp_plus/refs/heads/main/icons/512.png"
+    },
+    {
+      "name": "G-Diffuser (F-Zero X)",
+      "repository": "Zorkats/G-Diffuser",
+      "folderName": "G-Diffuser",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5c6c2cbf8d4c88c585d9b4b399804bbb/32/256x256.png"
     },
     {
       "name": "Goemon 64: Recompiled",
@@ -217,6 +229,12 @@
 
  "PlayStation Ports": [
     {
+      "name": "Crash Bandicoot Launcher",
+      "repository": "Matteo842/CrashBandicoot-Launcher",
+      "folderName": "CrashBandicoot-Launcher",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/0485d4712950cbce8b00eb3f5111cb36/32/512x512.png"
+    },
+	 {
       "name": "CTR Native (Crash Team Racing)",
       "repository": "CTR-tools/ctr-native",
       "folderName": "CTRNative",
@@ -396,6 +414,12 @@
       "repository": "masterspike52/reNut",
       "folderName": "reNut",
       "appIconUrl": "https://raw.githubusercontent.com/masterspike52/reNut/refs/heads/main/icon/app.ico"
+    },
+	{
+      "name": "Condemned2Recomp",
+      "repository": "psxrestore/Condemned2Recomp",
+      "folderName": "Condemned2Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/bd470ca955d9497bbcb808e59952fffc/32/256x256.png"
     },
 	{
       "name": "Dragon Ball Z Budokai HD Recompiled",
