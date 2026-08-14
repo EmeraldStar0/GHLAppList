@@ -61,12 +61,6 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/c1f22f4c38899f51f1ed3ce20120bbd9.png"
     },
     {
-      "name": "Diddy Kong Racing Recompiled",
-      "repository": "ThatGuyMcd/DKR-R",
-      "folderName": "DiddyKongRacing-Recompiled",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5e9199f65abd9c10124f2f35e294f91b/32/256x256.png"
-    },
-    {
       "name": "Dinosaur Planet: Recompiled",
       "repository": "DinosaurPlanetRecomp/dino-recomp",
       "folderName": "DinoPlanetRecompiled",
@@ -228,12 +222,6 @@
   ],
 
  "PlayStation Ports": [
-    {
-      "name": "Crash Bandicoot Launcher",
-      "repository": "Matteo842/CrashBandicoot-Launcher",
-      "folderName": "CrashBandicoot-Launcher",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/0485d4712950cbce8b00eb3f5111cb36/32/512x512.png"
-    },
 	 {
       "name": "CTR Native (Crash Team Racing)",
       "repository": "CTR-tools/ctr-native",
@@ -251,12 +239,6 @@
       "repository": "Legend-of-Dragoon-Modding/Severed-Chains",
       "folderName": "SeveredChains",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ddc2c94d27d2c6d46b33acf21b21a641.png"
-    },
-	{
-      "name": "Syphon Filter PC",
-      "repository": "Madxbio97/SF-pc-port",
-      "folderName": "SF-pc-port",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/12a84268867e9b12cec05f395cb1742f.png"
     },
     {
       "name": "SymphonyRecomp (Castlevania: Symphony of the Night)",
