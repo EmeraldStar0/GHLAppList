@@ -240,6 +240,12 @@
       "folderName": "SeveredChains",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ddc2c94d27d2c6d46b33acf21b21a641.png"
     },
+	{
+      "name": "Street Fighter Alpha 3 Recompiled",
+      "repository": "TechnicallyComputers/Street-Fighter-Alpha-3-Recomp",
+      "folderName": "Street-Fighter-Alpha-3-Recomp",
+      "appIconUrl": "https://raw.githubusercontent.com/TechnicallyComputers/Street-Fighter-Alpha-3-Recomp/refs/heads/master/launcher_assets/img/boxart.png"
+    },
     {
       "name": "SymphonyRecomp (Castlevania: Symphony of the Night)",
       "repository": "BlackLabelHQ/SymphonyRecomp",
@@ -357,6 +363,15 @@
     }
   ],
 
+  "AI - Other Ports": [
+    {
+      "name": "Metroid Prime: Hunters Recomp",
+      "repository": "mstan/MetroidPrimeHuntersRecomp",
+      "folderName": "MetroidPrimeHuntersRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a4dbd8807f9a6cfe63c78e84676df2ee.png"
+    }
+  ],
+
   "Other Ports": [
     {
       "name": "Azel (Panzer Dragoon Saga)",
@@ -391,6 +406,12 @@
   ],
 
   "Rexglue - Xbox 360": [
+	{
+      "name": " Ace Combat 6: Fires of Liberation Recomp",
+      "repository": "sal063/AC6_recomp",
+      "folderName": "AC6Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/630b572e79b8d37e7dc70a16bd4abaea.png"
+    },
 	{
       "name": "Banjo-Kazooie: Nuts & Bolts Re-NuT",
       "repository": "masterspike52/reNut",
@@ -442,6 +463,18 @@
   ],
 
   "AI Rexglue - Xbox 360": [
+	{
+      "name": "Destroy All Humans: Path of the Furon",
+      "repository": "masterspike52/redahm",
+      "folderName": "redahm",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a4dfc46bdbba88d6e22eeab28c982d3b.png"
+    },
+	{
+      "name": "Kameo: RePowered",
+      "repository": "birabittoh/KameoRePowered",
+      "folderName": "KameoRePowered",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/6a9396f51fadc08f4d40ccf873451a4e.png"
+    },
 	{
       "name": "GoldenEye 007 Recompiled",
       "repository": "SunJaycy/GoldenEye-Recomp",
