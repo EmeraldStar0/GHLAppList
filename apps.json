@@ -178,6 +178,12 @@
 
   "AI - N64 Ports": [
     {
+      "name": "Automobili Lamborghini",
+      "repository": "alondero/automobililamborghini-recomp",
+      "folderName": "automobililamborghini",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/26d404c73d5e70cee25a4a8fc917b5fb.png"
+    },
+    {
       "name": "Battleship (Super Smash Bros.)",
       "repository": "JRickey/BattleShip",
       "folderName": "Battleship",
@@ -233,6 +239,12 @@
       "repository": "Mikompilation/MikuPan",
       "folderName": "MikuPan",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/b485dd9ed816f24bcfcc15f8b9cb9075.png"
+    },
+	{
+      "name": "Rage Racer PC",
+      "repository": "khasinski/rage-racer-pc",
+      "folderName": "rage-racer-pc",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/780261c4b9a55cd803080619d0cc3e11/32/512x512.png"
     },
     {
       "name": "Severed Chains (Legend of Dragoon)",
