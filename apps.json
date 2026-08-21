@@ -443,6 +443,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/61501c1f651da2774f8bb6bbec365d84.png"
     },
 	{
+      "name": "Project Gotham Racing 4 Recompiled",
+      "repository": "beatrixzy/PGR4-Recomp",
+      "folderName": "PGR4-Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/467fc60274ae2cefade0487f255c3f5d/32/256x256.png"
+    },
+	{
       "name": "Sega Superstars Tennis ReMatch",
       "repository": "m1ndcrap/Sega-Superstars-Tennis-ReMatch",
       "folderName": "SegaSuperstarsTennisReMatch",
@@ -459,7 +465,7 @@
       "repository": "YesterMester/TheSimpsonsGameRecomp",
       "folderName": "TheSimpsonsGameRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/5bfa902eb40df91bce9872dbb4d72e0c.png"
-    },	  
+    },
 	{
       "name": "Viva Pinata: Trouble In Paradise Recompiled",
       "repository": "SolarCookies/TiP-Recomp",
