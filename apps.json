@@ -274,6 +274,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/d28a3097fa7cf63ad01c4f328314e2f2.png"
     },
 	{
+      "name": "Einhander Recompiled",
+      "repository": "strider973/Einhander-Recompiled",
+      "folderName": "Einhander-Recompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9ff478a05056d2fe0d7d1e1dd9b35a5f.png"
+    },
+	{
       "name": "Mega Man X6 Recomp",
       "repository": "mstan/MegaManX6Recomp",
       "folderName": "MegaManX6Recomp",
