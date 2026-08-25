@@ -7,6 +7,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/3eea4f9e7acb84e451bcfdfac2050fd7/32/256x256.png"
     },
 	{
+      "name": "Kirby Wii Recomp",
+      "repository": "ExpansionPak/ModernGekko",
+      "folderName": "KirbyWiiRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ca6ab34959489659f8c3776aaf1f8efd.png"
+    },
+	{
       "name": "Mario Party 4",
       "repository": "mariopartyrd/marioparty4",
       "folderName": "MarioParty4",
@@ -82,10 +88,10 @@
       "appIconUrl": "https://raw.githubusercontent.com/theboy181/drmario64_recomp_plus/refs/heads/main/icons/512.png"
     },
     {
-      "name": "Duke Nukem Zero Hour: Recompiled",
-      "repository": "sonicdcer/DNZHRecomp",
-      "folderName": "DNZHRecompiled",
-      "appIconUrl": "https://raw.githubusercontent.com/sonicdcer/DNZHRecomp/refs/heads/main/icons/512.png"
+      "name": "G-Diffuser (F-Zero X)",
+      "repository": "Zorkats/G-Diffuser",
+      "folderName": "G-Diffuser",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5c6c2cbf8d4c88c585d9b4b399804bbb/32/256x256.png"
     },
     {
       "name": "Goemon 64: Recompiled",
@@ -98,12 +104,6 @@
       "repository": "HarvestMoon64Recomp/HarvestMoon64Recomp",
       "folderName": "HarvestMoon64Recomp",
       "appIconUrl": "https://raw.githubusercontent.com/HarvestMoon64Recomp/HarvestMoon64Recomp/refs/heads/main/icons/app.png"
-    },
-    {
-      "name": "Mario Kart 64: Recompiled",
-      "repository": "sonicdcer/MarioKart64Recomp",
-      "folderName": "MarioKart64Recompiled",
-      "appIconUrl": "https://raw.githubusercontent.com/sonicdcer/MarioKart64Recomp/refs/heads/main/icons/512.png"
     },
     {
       "name": "Mega Man 64: Recompiled",
@@ -122,12 +122,6 @@
       "repository": "cdlewis/snowboardkids2-recomp",
       "folderName": "SnowboardKids2Recompiled",
       "appIconUrl": "https://github.com/cdlewis/snowboardkids2-recomp/blob/main/icons/512.png?raw=true"
-    },
-    {
-      "name": "Star Fox 64: Recompiled",
-      "repository": "sonicdcer/Starfox64Recomp",
-      "folderName": "StarFox64Recompiled",
-      "appIconUrl": "https://raw.githubusercontent.com/sonicdcer/Starfox64Recomp/refs/heads/main/icons/512.png"
     },
     {
       "name": "Zelda 64: Recompiled",
@@ -188,10 +182,22 @@
       "repository": "coop-deluxe/sm64coopdx",
       "folderName": "SM64CoopDX",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e3dd863ef4277e82f712a5bd8fefe7d7.png"
+    },
+    {
+      "name": "WCW vs. nWo World Tour: Recompiled",
+      "repository": "jessetbh/WCWvsNWOWorldTourRecomp",
+      "folderName": "WCWvsNWOWorldTourRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ad246a293bfd2f319f1a8b73e64903e3.png"
     }
   ],
 
   "AI - N64 Ports": [
+    {
+      "name": "Automobili Lamborghini",
+      "repository": "alondero/automobililamborghini-recomp",
+      "folderName": "automobililamborghini",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/26d404c73d5e70cee25a4a8fc917b5fb.png"
+    },
     {
       "name": "Battleship (Super Smash Bros.)",
       "repository": "JRickey/BattleShip",
@@ -237,7 +243,7 @@
   ],
 
  "PlayStation Ports": [
-    {
+	 {
       "name": "CTR Native (Crash Team Racing)",
       "repository": "CTR-tools/ctr-native",
       "folderName": "CTRNative",
@@ -249,11 +255,23 @@
       "folderName": "MikuPan",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/b485dd9ed816f24bcfcc15f8b9cb9075.png"
     },
+	{
+      "name": "Rage Racer PC",
+      "repository": "khasinski/rage-racer-pc",
+      "folderName": "rage-racer-pc",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/780261c4b9a55cd803080619d0cc3e11/32/512x512.png"
+    },
     {
       "name": "Severed Chains (Legend of Dragoon)",
       "repository": "Legend-of-Dragoon-Modding/Severed-Chains",
       "folderName": "SeveredChains",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ddc2c94d27d2c6d46b33acf21b21a641.png"
+    },
+	{
+      "name": "Street Fighter Alpha 3 Recompiled",
+      "repository": "TechnicallyComputers/Street-Fighter-Alpha-3-Recomp",
+      "folderName": "Street-Fighter-Alpha-3-Recomp",
+      "appIconUrl": "https://raw.githubusercontent.com/TechnicallyComputers/Street-Fighter-Alpha-3-Recomp/refs/heads/master/launcher_assets/img/boxart.png"
     },
     {
       "name": "SymphonyRecomp (Castlevania: Symphony of the Night)",
@@ -283,6 +301,12 @@
       "appIconUrl": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/main/icon.png?raw=true"
     },
 	{
+      "name": "Einhander Recompiled",
+      "repository": "strider973/Einhander-Recompiled",
+      "folderName": "Einhander-Recompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9ff478a05056d2fe0d7d1e1dd9b35a5f.png"
+    },
+	{
       "name": "Mega Man X6 Recomp",
       "repository": "mstan/MegaManX6Recomp",
       "folderName": "MegaManX6Recomp",
@@ -302,6 +326,22 @@
     }
   ],
 
+
+ "PlayStation 2 Ports": [
+    {
+      "name": "3SX (Street Fighter III: 3rd Strike)",
+      "repository": "crowded-street/3sx",
+      "folderName": "3sx",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/52967a3855319c3e7ac5731091dda96e.png"
+    },
+	{
+      "name": "3SXW (Street Fighter III: 3rd Strike)",
+      "repository": "guimaraf/3sxw",
+      "folderName": "3sxw",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/52967a3855319c3e7ac5731091dda96e.png"
+    }
+  ],
+	
   "2D Game Ports": [
     {
       "name": "Auto-TMC (Zelda: The Minish Cap)",
@@ -368,6 +408,15 @@
     }
   ],
 
+  "AI - Other Ports": [
+    {
+      "name": "Metroid Prime: Hunters Recomp",
+      "repository": "mstan/MetroidPrimeHuntersRecomp",
+      "folderName": "MetroidPrimeHuntersRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a4dbd8807f9a6cfe63c78e84676df2ee.png"
+    }
+  ],
+
   "Other Ports": [
     {
       "name": "Azel (Panzer Dragoon Saga)",
@@ -375,13 +424,7 @@
       "folderName": "Azel",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/eba4b31af98c58b7cdb9cc785adc7627.png"
     },
-    {
-      "name": "OpenGOAL (Jak & Daxter Trilogy)",
-      "repository": "open-goal/jak-project",
-      "folderName": "OpenGOAL",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/48ecd78598456095d654c9196f973b00.png"
-    },
-	  {
+	{
       "name": "REDRIVER 2 (Driver 2)",
       "repository": "OpenDriver2/REDRIVER2",
       "folderName": "REDRIVER2",
@@ -409,10 +452,22 @@
 
   "Rexglue - Xbox 360": [
 	{
+      "name": "Ace Combat 6: Fires of Liberation Recomp",
+      "repository": "sal063/AC6_recomp",
+      "folderName": "AC6Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/630b572e79b8d37e7dc70a16bd4abaea.png"
+    },
+	{
       "name": "Banjo-Kazooie: Nuts & Bolts Re-NuT",
       "repository": "masterspike52/reNut",
       "folderName": "reNut",
       "appIconUrl": "https://raw.githubusercontent.com/masterspike52/reNut/refs/heads/main/icon/app.ico"
+    },
+	{
+      "name": "Condemned2Recomp",
+      "repository": "psxrestore/Condemned2Recomp",
+      "folderName": "Condemned2Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/bd470ca955d9497bbcb808e59952fffc/32/256x256.png"
     },
 	{
       "name": "Dragon Ball Z Budokai HD Recompiled",
@@ -421,10 +476,10 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/61501c1f651da2774f8bb6bbec365d84.png"
     },
 	{
-      "name": "re:Blue (Blue Dragon Recompiled)",
-      "repository": "zolaware/reblue",
-      "folderName": "reBlue",
-      "appIconUrl": "https://cdn2.steamgriddb.com/grid/56ece4baf45c8009e2370d804ca56fb8.jpg"
+      "name": "Project Gotham Racing 4 Recompiled",
+      "repository": "beatrixzy/PGR4-Recomp",
+      "folderName": "PGR4-Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/467fc60274ae2cefade0487f255c3f5d/32/256x256.png"
     },
 	{
       "name": "Sega Superstars Tennis ReMatch",
@@ -437,6 +492,12 @@
       "repository": "mchughalex/skate3recomp",
       "folderName": "SkateRecompiled",
       "appIconUrl": "https://github.com/mchughalex/skate3recomp/raw/main/banner.png"
+    },
+	{
+      "name": "The Simpsons Game - Recompiled",
+      "repository": "YesterMester/TheSimpsonsGameRecomp",
+      "folderName": "TheSimpsonsGameRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/5bfa902eb40df91bce9872dbb4d72e0c.png"
     },
 	{
       "name": "Viva Pinata: Trouble In Paradise Recompiled",
@@ -453,6 +514,18 @@
   ],
 
   "AI Rexglue - Xbox 360": [
+	{
+      "name": "Destroy All Humans: Path of the Furon (ReDahm)",
+      "repository": "masterspike52/redahm",
+      "folderName": "redahm",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a4dfc46bdbba88d6e22eeab28c982d3b.png"
+    },
+	{
+      "name": "Kameo: RePowered",
+      "repository": "birabittoh/KameoRePowered",
+      "folderName": "KameoRePowered",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/6a9396f51fadc08f4d40ccf873451a4e.png"
+    },
 	{
       "name": "GoldenEye 007 Recompiled",
       "repository": "SunJaycy/GoldenEye-Recomp",
