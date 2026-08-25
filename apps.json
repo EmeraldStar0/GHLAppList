@@ -595,12 +595,6 @@
       "folderName": "Duckstation",
       "appIconUrl": "https://github.com/stenzek/duckstation/blob/master/data/resources/images/duck.png?raw=true"
     },
-	{
-      "name": "PCSX2 (PS2)",
-      "repository": "PCSX2/pcsx2",
-      "folderName": "PCSX2",
-      "appIconUrl": "https://github.com/PCSX2/pcsx2/blob/master/pcsx2-qt/resources/icons/AppIcon64.png?raw=true"
-    },
     {
       "name": "RPCS3 (PS3)",
       "repository": "RPCS3/rpcs3",
