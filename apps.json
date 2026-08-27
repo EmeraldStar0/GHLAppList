@@ -563,7 +563,7 @@
       "name": "mGBA (GBA)",
       "repository": "mgba-emu/mgba",
       "folderName": "mGBA",
-      "appIconUrl": "https://github.com/mgba-emu/mgba/blob/master/res/mgba-1024.png?raw=true"
+      "appIconUrl": "https://raw.githubusercontent.com/mgba-emu/mgba/refs/heads/master/res/mgba-512.png"
     },
     {
       "name": "Rosalie's Mupen GUI (N64)",
