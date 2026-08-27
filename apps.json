@@ -31,7 +31,7 @@
       "name": "Animal Crossing PC Port",
       "repository": "flyngmt/ACGC-PC-Port",
       "folderName": "ACPCPort",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/63d9e8a72c3a2f029c635f9b194839d2.png"
+      "appIconUrl": "https://raw.githubusercontent.com/flyngmt/ACGC-PC-Port/refs/heads/master/pc/res/icon.png"
     }
   ],
 
@@ -40,7 +40,7 @@
       "name": "Pokemon Platinum PC Port",
       "repository": "cybervisi0n/pokeplatinum",
       "folderName": "pokeplatinum",
-      "appIconUrl": "https://raw.githubusercontent.com/cybervisi0n/pokeplatinum/refs/heads/pc_port/platinum.us/icon.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5dfa4ce99b375f7b4ecd1c464c3c9234.png"
     }
   ],
 
@@ -569,7 +569,7 @@
       "name": "Rosalie's Mupen GUI (N64)",
       "repository": "Rosalie241/RMG",
       "folderName": "RosalieMupenGUI",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5e93e97910814feb7ea0902bad6182fb/32/512x512.png"
+      "appIconUrl": "https://raw.githubusercontent.com/Rosalie241/RMG/9dced048f747085f942f55941dd4304279acc145/Artwork/RMG.svg"
     },
     {
       "name": "SkyEmu (GBA, NDS)",
@@ -581,7 +581,7 @@
       "name": "snes9x (SNES)",
       "repository": "snes9xgit/snes9x",
       "folderName": "snes9x",
-      "appIconUrl": "https://github.com/snes9xgit/snes9x/blob/master/gtk/data/snes9x_64x64.png?raw=true"
+      "appIconUrl": "https://raw.githubusercontent.com/snes9xgit/snes9x/refs/heads/master/gtk/data/snes9x_256x256.png"
     },
     {
       "name": "Flycast (Dreamcast)",
@@ -599,7 +599,7 @@
       "name": "RPCS3 (PS3)",
       "repository": "RPCS3/rpcs3",
       "folderName": "RPCS3",
-      "appIconUrl": "https://github.com/RPCS3/rpcs3/blob/master/rpcs3/rpcs3.png?raw=true"
+      "appIconUrl": "https://raw.githubusercontent.com/RPCS3/rpcs3/6567a5a2f8ab47a89db395d6b47a7b59b23d6960/rpcs3/rpcs3.svg"
     },
     {
       "name": "shadPS4 (PS4)",
@@ -617,7 +617,7 @@
       "name": "PPSSPP (PSP)",
       "repository": "hrydgard/ppsspp",
       "folderName": "PPSSPP",
-      "appIconUrl": "https://github.com/hrydgard/ppsspp/blob/master/icons/icon-114.png?raw=true"
+      "appIconUrl": "https://raw.githubusercontent.com/hrydgard/ppsspp/bef07b7a6bc4c29ef82d0f4bf16ef7d0ddaadbac/icons/icon-512.svg"
     },
     {
       "name": "Vita3K (PSV)",
@@ -635,7 +635,7 @@
       "name": "Xemu (Xbox)",
       "repository": "xemu-project/xemu",
       "folderName": "xemu",
-      "appIconUrl": "https://github.com/xemu-project/xemu/blob/master/ui/icons/xemu_64x64.png?raw=true"
+      "appIconUrl": "https://github.com/xemu-project/xemu/blob/master/ui/icons/xemu_512x512.png?raw=true"
     },
 	{
       "name": "Xenia Manager (Xbox 360)",
