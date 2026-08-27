@@ -607,6 +607,12 @@
       "folderName": "shadPS4",
       "appIconUrl": "https://github.com/shadps4-emu/shadPS4/blob/main/src/resources/shadps4.png?raw=true"
     },
+	{
+      "name": "Slippi (Super Smash Bros Melee Online)",
+      "repository": "project-slippi/slippi-launcher",
+      "folderName": "slippi-launcher",
+      "appIconUrl": "https://raw.githubusercontent.com/project-slippi/slippi-launcher/refs/heads/main/assets/icon.png"
+    },
     {
       "name": "PPSSPP (PSP)",
       "repository": "hrydgard/ppsspp",
