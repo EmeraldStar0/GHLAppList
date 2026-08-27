@@ -497,7 +497,7 @@
       "name": "Skate: Recompiled (Skate 3)",
       "repository": "mchughalex/skate3recomp",
       "folderName": "SkateRecompiled",
-      "appIconUrl": "https://github.com/mchughalex/skate3recomp/raw/main/banner.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/815385d061174fc9042e51c7f8b23277.png"
     },
 	{
       "name": "The Simpsons Game - Recompiled",
@@ -617,7 +617,7 @@
       "name": "Slippi Launcher (SSB Melee Online)",
       "repository": "project-slippi/slippi-launcher",
       "folderName": "slippi-launcher",
-      "appIconUrl": "https://raw.githubusercontent.com/project-slippi/slippi-launcher/refs/heads/main/assets/icon.png"
+      "appIconUrl": "https://raw.githubusercontent.com/project-slippi/slippi-launcher/refs/heads/main/assets/icons/512x512.png"
     },
     {
       "name": "snes9x (SNES)",
