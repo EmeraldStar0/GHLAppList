@@ -32,6 +32,12 @@
       "repository": "flyngmt/ACGC-PC-Port",
       "folderName": "ACPCPort",
       "appIconUrl": "https://raw.githubusercontent.com/flyngmt/ACGC-PC-Port/refs/heads/master/pc/res/icon.png"
+    },
+	{
+      "name": "Wiicompiled (Mario Kart Wii)",
+      "repository": "fpatchzyy/Wiicompiled",
+      "folderName": "Wiicompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/56b372902b44225b798890ea08b076c0.png"
     }
   ],
 
