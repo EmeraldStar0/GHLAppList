@@ -614,7 +614,7 @@
       "appIconUrl": "https://github.com/skylersaleh/SkyEmu/blob/dev/src/resources/icons/icon.png?raw=true"
     },
 	{
-      "name": "Slippi (Super Smash Bros Melee Online)",
+      "name": "Slippi Launcher (SSB Melee Online)",
       "repository": "project-slippi/slippi-launcher",
       "folderName": "slippi-launcher",
       "appIconUrl": "https://raw.githubusercontent.com/project-slippi/slippi-launcher/refs/heads/main/assets/icon.png"
