@@ -10,7 +10,7 @@
       "name": "Kirby Wii Recomp",
       "repository": "ExpansionPak/ModernGekko",
       "folderName": "KirbyWiiRecomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ca6ab34959489659f8c3776aaf1f8efd.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/ca6ab34959489659f8c3776aaf1f8efd.png"
     },
 	{
       "name": "Mario Party 4",
@@ -31,7 +31,13 @@
       "name": "Animal Crossing PC Port",
       "repository": "flyngmt/ACGC-PC-Port",
       "folderName": "ACPCPort",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/63d9e8a72c3a2f029c635f9b194839d2.png"
+      "appIconUrl": "https://raw.githubusercontent.com/flyngmt/ACGC-PC-Port/refs/heads/master/pc/res/icon.png"
+    },
+	{
+      "name": "Wiicompiled (Mario Kart Wii)",
+      "repository": "patchzyy/Wiicompiled",
+      "folderName": "Wiicompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/56b372902b44225b798890ea08b076c0.png"
     }
   ],
 
@@ -40,11 +46,17 @@
       "name": "Pokemon Platinum PC Port",
       "repository": "cybervisi0n/pokeplatinum",
       "folderName": "pokeplatinum",
-      "appIconUrl": "https://raw.githubusercontent.com/cybervisi0n/pokeplatinum/refs/heads/pc_port/platinum.us/icon.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5dfa4ce99b375f7b4ecd1c464c3c9234.png"
     }
   ],
 
   "N64 Ports": [
+    {
+      "name": "2 Ship 2 Harkinian (Zelda: Majora's Mask)",
+      "repository": "harbourmasters/2ship2harkinian",
+      "folderName": "2Ship2Harkinian",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/6c7dbdd98cd70f67f102524761f3b4d2/24/256x256.png"
+    },
     {
       "name": "Banjo 64: Recompiled",
       "repository": "BanjoRecomp/BanjoRecomp",
@@ -73,13 +85,13 @@
       "name": "Diddy Kong Racing Recompiled",
       "repository": "ThatGuyMcd/DKR-R",
       "folderName": "DKRPort",
-      "appIconUrl": "https://private-user-images.githubusercontent.com/246780704/633574463-a02fbcce-12b5-4f0f-bd03-d3414da53d5a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYzODA1MDMsIm5iZiI6MTc4NjM4MDIwMywicGF0aCI6Ii8yNDY3ODA3MDQvNjMzNTc0NDYzLWEwMmZiY2NlLTEyYjUtNGYwZi1iZDAzLWQzNDE0ZGE1M2Q1YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxMFQxNjQzMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yN2Y0N2Q2ZWUxZDRlMjQ4ZTA2OWQyMWQ1MWM0ZDM2NGZmMDkzMzc0OGEyZGQxZjJjNzgyNzc3YjcyOGVmZTIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.ae3nTTE64Q0AYzbyMmEuyaOYAhoo9hiDlbnFMkOECBE"
+      "appIconUrl": "https://raw.githubusercontent.com/ThatGuyMcd/DKR-R/refs/heads/main/assets/ui/Icons/diddy_kong_racing_recompiled_ico_by_pooterman.png"
     },
     {
       "name": "Dinosaur Planet: Recompiled",
       "repository": "DinosaurPlanetRecomp/dino-recomp",
       "folderName": "DinoPlanetRecompiled",
-      "appIconUrl": "https://raw.githubusercontent.com/DinosaurPlanetRecomp/dino-recomp/refs/heads/main/icons/64.png"
+      "appIconUrl": "https://github.com/DinosaurPlanetRecomp/dino-recomp/blob/main/icons/512.png?raw=true"
     },
     {
       "name": "Dr. Mario 64: Recompiled Plus",
@@ -94,6 +106,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/5c6c2cbf8d4c88c585d9b4b399804bbb/32/256x256.png"
     },
     {
+      "name": "Ghostship (Super Mario 64)",
+      "repository": "harbourmasters/ghostship",
+      "folderName": "Ghostship",
+      "appIconUrl": "https://raw.githubusercontent.com/HarbourMasters/Ghostship/refs/heads/develop/nx-logo.jpg"
+    },
+    {
       "name": "Goemon 64: Recompiled",
       "repository": "klorfmorf/Goemon64Recomp",
       "folderName": "Goemon64Recompiled",
@@ -106,70 +124,22 @@
       "appIconUrl": "https://raw.githubusercontent.com/HarvestMoon64Recomp/HarvestMoon64Recomp/refs/heads/main/icons/app.png"
     },
     {
-      "name": "Mega Man 64: Recompiled",
-      "repository": "MegaMan64Recomp/MegaMan64Recompiled",
-      "folderName": "MegaMan64Recompiled",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/850618e22f83f152773d2a3e51168812.png"
+      "name": "Infinite Mario 64 Ever",
+      "repository": "Brawmario/infinite-mario-64-ever",
+      "folderName": "InfiniteMario64Ever",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/9b1347ebd516dd05210fcc9e8291b9d1.png"
     },
     {
-      "name": "Quest 64: Recompiled",
-      "repository": "Rainchus/Quest64-Recomp",
-      "folderName": "Quest64Recompiled",
-      "appIconUrl": "https://raw.githubusercontent.com/Rainchus/Quest64-Recomp/refs/heads/main/icons/512.png"
-    },
-	{
-      "name": "Snowboard Kids 2: Recompiled",
-      "repository": "cdlewis/snowboardkids2-recomp",
-      "folderName": "SnowboardKids2Recompiled",
-      "appIconUrl": "https://github.com/cdlewis/snowboardkids2-recomp/blob/main/icons/512.png?raw=true"
-    },
-    {
-      "name": "Zelda 64: Recompiled",
-      "repository": "Zelda64Recomp/Zelda64Recomp",
-      "folderName": "Zelda64Recompiled",
-      "appIconUrl": "https://raw.githubusercontent.com/Zelda64Recomp/Zelda64Recomp/refs/heads/dev/icons/512.png"
-    },
-	{
-      "name": "2 Ship 2 Harkinian (Zelda: Majora's Mask)",
-      "repository": "harbourmasters/2ship2harkinian",
-      "folderName": "2Ship2Harkinian",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/6c7dbdd98cd70f67f102524761f3b4d2/24/256x256.png"
-    },
-	{
-      "name": "Ghostship (Super Mario 64)",
-      "repository": "harbourmasters/ghostship",
-      "folderName": "Ghostship",
-      "appIconUrl": "https://raw.githubusercontent.com/HarbourMasters/Ghostship/refs/heads/develop/nx-logo.jpg"
-    },
-	{
       "name": "Lighthouse (Banjo Kazooie)",
       "repository": "HarbourMasters/Lighthouse",
       "folderName": "Lighthouse",
       "appIconUrl": "https://github.com/HarbourMasters/Lighthouse/blob/develop/logo.png?raw=true"
     },
-	{
-      "name": "Ship of Harkinian (Zelda: Ocarina of Time)",
-      "repository": "harbourmasters/shipwright",
-      "folderName": "ShipofHarkinian",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/d1cd0a8c9b28f58703a097d5a25534e3/32/256x256.png"
-    },
-	{
-      "name": "SpaghettiKart (Mario Kart 64)",
-      "repository": "harbourmasters/spaghettikart",
-      "folderName": "SpaghettiKart",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/5e5e0bd5ad7c2ca72b0c5ff8b6debbba.png"
-    },
-	{
-      "name": "Starship (Star Fox 64)",
-      "repository": "harbourmasters/starship",
-      "folderName": "Starship",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/dc2ee2a5add7154447a4644326e33386/32/256x256.png"
-    },
-	{
-      "name": "Infinite Mario 64 Ever",
-      "repository": "Brawmario/infinite-mario-64-ever",
-      "folderName": "InfiniteMario64Ever",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9b1347ebd516dd05210fcc9e8291b9d1.png"
+    {
+      "name": "Mega Man 64: Recompiled",
+      "repository": "MegaMan64Recomp/MegaMan64Recompiled",
+      "folderName": "MegaMan64Recompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/850618e22f83f152773d2a3e51168812.png"
     },
     {
       "name": "Perfect Dark Port",
@@ -178,16 +148,52 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/64314c17210c549a854f1f1c7adce8b6/32/256x256.png"
     },
     {
+      "name": "Quest 64: Recompiled",
+      "repository": "Rainchus/Quest64-Recomp",
+      "folderName": "Quest64Recompiled",
+      "appIconUrl": "https://raw.githubusercontent.com/Rainchus/Quest64-Recomp/refs/heads/main/icons/512.png"
+    },
+	{
+      "name": "Ship of Harkinian (Zelda: Ocarina of Time)",
+      "repository": "harbourmasters/shipwright",
+      "folderName": "ShipofHarkinian",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/d1cd0a8c9b28f58703a097d5a25534e3/32/256x256.png"
+    },
+    {
       "name": "SM64 Co-op DX",
       "repository": "coop-deluxe/sm64coopdx",
       "folderName": "SM64CoopDX",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e3dd863ef4277e82f712a5bd8fefe7d7.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/e3dd863ef4277e82f712a5bd8fefe7d7.png"
+    },
+    {
+      "name": "Snowboard Kids 2: Recompiled",
+      "repository": "cdlewis/snowboardkids2-recomp",
+      "folderName": "SnowboardKids2Recompiled",
+      "appIconUrl": "https://github.com/cdlewis/snowboardkids2-recomp/blob/main/icons/512.png?raw=true"
+    },
+    {
+      "name": "SpaghettiKart (Mario Kart 64)",
+      "repository": "harbourmasters/spaghettikart",
+      "folderName": "SpaghettiKart",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5e5e0bd5ad7c2ca72b0c5ff8b6debbba.png"
+    },
+	{
+      "name": "Starship (Star Fox 64)",
+      "repository": "harbourmasters/starship",
+      "folderName": "Starship",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/dc2ee2a5add7154447a4644326e33386/32/256x256.png"
     },
     {
       "name": "WCW vs. nWo World Tour: Recompiled",
       "repository": "jessetbh/WCWvsNWOWorldTourRecomp",
       "folderName": "WCWvsNWOWorldTourRecomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ad246a293bfd2f319f1a8b73e64903e3.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/ad246a293bfd2f319f1a8b73e64903e3.png"
+    },
+    {
+      "name": "Zelda 64: Recompiled",
+      "repository": "Zelda64Recomp/Zelda64Recomp",
+      "folderName": "Zelda64Recompiled",
+      "appIconUrl": "https://raw.githubusercontent.com/Zelda64Recomp/Zelda64Recomp/refs/heads/dev/icons/512.png"
     }
   ],
 
@@ -196,7 +202,7 @@
       "name": "Automobili Lamborghini",
       "repository": "alondero/automobililamborghini-recomp",
       "folderName": "automobililamborghini",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/26d404c73d5e70cee25a4a8fc917b5fb.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/26d404c73d5e70cee25a4a8fc917b5fb.png"
     },
     {
       "name": "Battleship (Super Smash Bros.)",
@@ -243,7 +249,7 @@
   ],
 
  "PlayStation Ports": [
-	 {
+    {
       "name": "CTR Native (Crash Team Racing)",
       "repository": "CTR-tools/ctr-native",
       "folderName": "CTRNative",
@@ -265,7 +271,7 @@
       "name": "Severed Chains (Legend of Dragoon)",
       "repository": "Legend-of-Dragoon-Modding/Severed-Chains",
       "folderName": "SeveredChains",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ddc2c94d27d2c6d46b33acf21b21a641.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/ddc2c94d27d2c6d46b33acf21b21a641.png"
     },
 	{
       "name": "Street Fighter Alpha 3 Recompiled",
@@ -277,13 +283,13 @@
       "name": "SymphonyRecomp (Castlevania: Symphony of the Night)",
       "repository": "BlackLabelHQ/SymphonyRecomp",
       "folderName": "SymphonyRecomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/0e4a2c65bdaddd66a53422d93daebe68.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/0e4a2c65bdaddd66a53422d93daebe68.png"
     },
     {
       "name": "Syphon Filter PC",
       "repository": "Madxbio97/SF-pc-port",
       "folderName": "SyphonFilterPCPort",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/b1282cadad27f496d6680a5128a2814e.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/b1282cadad27f496d6680a5128a2814e.png"
     }
   ],
 
@@ -294,7 +300,7 @@
       "folderName": "ApeEscapeRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/d28a3097fa7cf63ad01c4f328314e2f2.png"
     },
-	 {
+    {
       "name": "Crash Bandicoot Recomp",
       "repository": "Matteo842/CrashBandicoot-Launcher",
       "folderName": "CrashBandicoot",
@@ -304,7 +310,7 @@
       "name": "Einhander Recompiled",
       "repository": "strider973/Einhander-Recompiled",
       "folderName": "Einhander-Recompiled",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9ff478a05056d2fe0d7d1e1dd9b35a5f.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/9ff478a05056d2fe0d7d1e1dd9b35a5f.png"
     },
 	{
       "name": "Mega Man X6 Recomp",
@@ -332,13 +338,13 @@
       "name": "3SX (Street Fighter III: 3rd Strike)",
       "repository": "crowded-street/3sx",
       "folderName": "3sx",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/52967a3855319c3e7ac5731091dda96e.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/52967a3855319c3e7ac5731091dda96e.png"
     },
 	{
       "name": "3SXW (Street Fighter III: 3rd Strike)",
       "repository": "guimaraf/3sxw",
       "folderName": "3sxw",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/52967a3855319c3e7ac5731091dda96e.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/52967a3855319c3e7ac5731091dda96e.png"
     }
   ],
 	
@@ -359,7 +365,7 @@
       "name": "MegamanX SNESRecomp",
       "repository": "mstan/MegaManXSNESRecomp",
       "folderName": "MegaManXSNESRecomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/logo_thumb/2ae549cf604c064a34019c7bd4a81e24.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/b946c734affd9d4de72dd92957bfc9f8.png"
     },
     {
       "name": "smw (Super Mario World)",
@@ -371,7 +377,7 @@
       "name": "Sonic 1 Forever",
       "repository": "ElspethThePict/S1Forever",
       "folderName": "Sonic1Forever",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7884a9652e94555c70f96b6be63be216.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/7884a9652e94555c70f96b6be63be216.png"
     },
     {
       "name": "Sonic 3 AIR",
@@ -395,7 +401,7 @@
       "name": "Zelda 3 Launcher (Zelda: A Link To The Past)",
       "repository": "RadzPrower/Zelda-3-Launcher",
       "folderName": "Zelda3Launcher",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/1b39a10cc39ee53e5b2fdc1eda1eb5da.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/1b39a10cc39ee53e5b2fdc1eda1eb5da.png"
     }
   ],
 
@@ -405,15 +411,6 @@
       "repository": "bryanthaboi/gen1recomp",
       "folderName": "Gen1Recomp",
       "appIconUrl": "https://raw.githubusercontent.com/bryanthaboi/gen1recomp/main/assets/logo/gen1recomp_cover.png"
-    }
-  ],
-
-  "AI - Other Ports": [
-    {
-      "name": "Metroid Prime: Hunters Recomp",
-      "repository": "mstan/MetroidPrimeHuntersRecomp",
-      "folderName": "MetroidPrimeHuntersRecomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a4dbd8807f9a6cfe63c78e84676df2ee.png"
     }
   ],
 
@@ -428,7 +425,7 @@
       "name": "REDRIVER 2 (Driver 2)",
       "repository": "OpenDriver2/REDRIVER2",
       "folderName": "REDRIVER2",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ca0739bf1344242a820fe79d0ac17d65.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/ca0739bf1344242a820fe79d0ac17d65.png"
     },
     {
       "name": "R.E.L.I.V.E. (Oddworld: Abe's Exoddus/Oddysee)",
@@ -436,7 +433,7 @@
       "folderName": "RELIVE",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/b9b5c1aceaf0491b0c041bca34418f07.png"
     },
-	  {
+    {
       "name": "Unleashed Recompiled (Sonic Unleashed)",
       "repository": "hedge-dev/UnleashedRecomp",
       "folderName": "UnleashedRecompiled",
@@ -446,7 +443,16 @@
       "name": "WipeOut: Phantom Edition",
       "repository": "wipeout-phantom-edition/wipeout-phantom-edition",
       "folderName": "WipeOutPhantomEdition",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9fcb5252180dc29b22976c5c63b322e7.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/9fcb5252180dc29b22976c5c63b322e7.png"
+    }
+  ],
+
+  "AI - Other Ports": [
+    {
+      "name": "Metroid Prime: Hunters Recomp",
+      "repository": "mstan/MetroidPrimeHuntersRecomp",
+      "folderName": "MetroidPrimeHuntersRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/a4dbd8807f9a6cfe63c78e84676df2ee.png"
     }
   ],
 
@@ -455,7 +461,7 @@
       "name": "Ace Combat 6: Fires of Liberation Recomp",
       "repository": "sal063/AC6_recomp",
       "folderName": "AC6Recomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/630b572e79b8d37e7dc70a16bd4abaea.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/630b572e79b8d37e7dc70a16bd4abaea.png"
     },
 	{
       "name": "Banjo-Kazooie: Nuts & Bolts Re-NuT",
@@ -491,13 +497,13 @@
       "name": "Skate: Recompiled (Skate 3)",
       "repository": "mchughalex/skate3recomp",
       "folderName": "SkateRecompiled",
-      "appIconUrl": "https://github.com/mchughalex/skate3recomp/raw/main/banner.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/815385d061174fc9042e51c7f8b23277.png"
     },
 	{
       "name": "The Simpsons Game - Recompiled",
       "repository": "YesterMester/TheSimpsonsGameRecomp",
       "folderName": "TheSimpsonsGameRecomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/5bfa902eb40df91bce9872dbb4d72e0c.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5bfa902eb40df91bce9872dbb4d72e0c.png"
     },
 	{
       "name": "Viva Pinata: Trouble In Paradise Recompiled",
@@ -509,7 +515,7 @@
       "name": "WWE SmackDown vs. Raw 2007 Recompiled",
       "repository": "HollywoodAkeem/SVR07-Recomp",
       "folderName": "SVR07Recompiled",
-      "appIconUrl": "https://raw.githubusercontent.com/HollywoodAkeem/SVR07-Recomp/refs/heads/main/docs/images/logo.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/7bcab4942f4f7e074eb4f7b4ecdf4f61.png"
 	}
   ],
 
@@ -518,19 +524,19 @@
       "name": "Destroy All Humans: Path of the Furon (ReDahm)",
       "repository": "masterspike52/redahm",
       "folderName": "redahm",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a4dfc46bdbba88d6e22eeab28c982d3b.png"
-    },
-	{
-      "name": "Kameo: RePowered",
-      "repository": "birabittoh/KameoRePowered",
-      "folderName": "KameoRePowered",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/6a9396f51fadc08f4d40ccf873451a4e.png"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/a4dfc46bdbba88d6e22eeab28c982d3b.png"
     },
 	{
       "name": "GoldenEye 007 Recompiled",
       "repository": "SunJaycy/GoldenEye-Recomp",
       "folderName": "GoldenEyeRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/c967fb654df41177901d1f5f135bf9e6.png"
+    },
+    {
+      "name": "Kameo: RePowered",
+      "repository": "birabittoh/KameoRePowered",
+      "folderName": "KameoRePowered",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/6a9396f51fadc08f4d40ccf873451a4e.png"
     }
   ],
 
@@ -548,6 +554,18 @@
       "appIconUrl": "https://github.com/citron-neo/emulator/blob/main/dist/qt_themes/default/icons/256x256/citron.png?raw=true"
     },
     {
+      "name": "Duckstation (PS1)",
+      "repository": "stenzek/duckstation",
+      "folderName": "Duckstation",
+      "appIconUrl": "https://github.com/stenzek/duckstation/blob/master/data/resources/images/duck.png?raw=true"
+    },
+    {
+      "name": "Flycast (Dreamcast)",
+      "repository": "flyinghead/flycast",
+      "folderName": "Flycast",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/abebb7c39f4b5e46bbcfab2b565ef32b/32/256x256.png"
+    },
+    {
       "name": "Gopher 64 (N64)",
       "repository": "gopher64/gopher64",
       "folderName": "Gopher64",
@@ -563,43 +581,25 @@
       "name": "mGBA (GBA)",
       "repository": "mgba-emu/mgba",
       "folderName": "mGBA",
-      "appIconUrl": "https://github.com/mgba-emu/mgba/blob/master/res/mgba-1024.png?raw=true"
+      "appIconUrl": "https://raw.githubusercontent.com/mgba-emu/mgba/refs/heads/master/res/mgba-512.png"
+    },
+     {
+      "name": "PPSSPP (PSP)",
+      "repository": "hrydgard/ppsspp",
+      "folderName": "PPSSPP",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/2ba3c4b9390cc43edb94e42144729d33/32/256x256.png"
     },
     {
       "name": "Rosalie's Mupen GUI (N64)",
       "repository": "Rosalie241/RMG",
       "folderName": "RosalieMupenGUI",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5e93e97910814feb7ea0902bad6182fb/32/512x512.png"
-    },
-    {
-      "name": "SkyEmu (GBA, NDS)",
-      "repository": "skylersaleh/SkyEmu",
-      "folderName": "SkyEmu",
-      "appIconUrl": "https://github.com/skylersaleh/SkyEmu/blob/dev/src/resources/icons/icon.png?raw=true"
-    },
-	{
-      "name": "snes9x (SNES)",
-      "repository": "snes9xgit/snes9x",
-      "folderName": "snes9x",
-      "appIconUrl": "https://github.com/snes9xgit/snes9x/blob/master/gtk/data/snes9x_64x64.png?raw=true"
-    },
-    {
-      "name": "Flycast (Dreamcast)",
-      "repository": "flyinghead/flycast",
-      "folderName": "Flycast",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/abebb7c39f4b5e46bbcfab2b565ef32b/32/256x256.png"
-    },
-	{
-      "name": "Duckstation (PS1)",
-      "repository": "stenzek/duckstation",
-      "folderName": "Duckstation",
-      "appIconUrl": "https://github.com/stenzek/duckstation/blob/master/data/resources/images/duck.png?raw=true"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/a9eea24ba5eb9664c1341d21cf78476e.png"
     },
     {
       "name": "RPCS3 (PS3)",
       "repository": "RPCS3/rpcs3",
       "folderName": "RPCS3",
-      "appIconUrl": "https://github.com/RPCS3/rpcs3/blob/master/rpcs3/rpcs3.png?raw=true"
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/add5aebfcb33a2206b6497d53bc4f309/32/256x256.png"
     },
     {
       "name": "shadPS4 (PS4)",
@@ -608,10 +608,22 @@
       "appIconUrl": "https://github.com/shadps4-emu/shadPS4/blob/main/src/resources/shadps4.png?raw=true"
     },
     {
-      "name": "PPSSPP (PSP)",
-      "repository": "hrydgard/ppsspp",
-      "folderName": "PPSSPP",
-      "appIconUrl": "https://github.com/hrydgard/ppsspp/blob/master/icons/icon-114.png?raw=true"
+      "name": "SkyEmu (GBA, NDS)",
+      "repository": "skylersaleh/SkyEmu",
+      "folderName": "SkyEmu",
+      "appIconUrl": "https://github.com/skylersaleh/SkyEmu/blob/dev/src/resources/icons/icon.png?raw=true"
+    },
+	{
+      "name": "Slippi Launcher (SSB Melee Online)",
+      "repository": "project-slippi/slippi-launcher",
+      "folderName": "slippi-launcher",
+      "appIconUrl": "https://raw.githubusercontent.com/project-slippi/slippi-launcher/refs/heads/main/assets/icons/512x512.png"
+    },
+    {
+      "name": "snes9x (SNES)",
+      "repository": "snes9xgit/snes9x",
+      "folderName": "snes9x",
+      "appIconUrl": "https://raw.githubusercontent.com/snes9xgit/snes9x/refs/heads/master/gtk/data/snes9x_256x256.png"
     },
     {
       "name": "Vita3K (PSV)",
@@ -629,7 +641,7 @@
       "name": "Xemu (Xbox)",
       "repository": "xemu-project/xemu",
       "folderName": "xemu",
-      "appIconUrl": "https://github.com/xemu-project/xemu/blob/master/ui/icons/xemu_64x64.png?raw=true"
+      "appIconUrl": "https://github.com/xemu-project/xemu/blob/master/ui/icons/xemu_512x512.png?raw=true"
     },
 	{
       "name": "Xenia Manager (Xbox 360)",
