@@ -93,6 +93,12 @@
       "folderName": "DinoPlanetRecompiled",
       "appIconUrl": "https://github.com/DinosaurPlanetRecomp/dino-recomp/blob/main/icons/512.png?raw=true"
     },
+	{
+	  "name": "DK64 Rekongpiled",
+	  "repository": "Rainchus/Donkey-Kong-64-Recompiled",
+	  "folderName": "DK64Recompiled",
+      "appIconUrl": "https://github.com/Rainchus/Donkey-Kong-64-Recompiled/blob/main/icons/app.png?raw=true"
+	},
     {
       "name": "Dr. Mario 64: Recompiled Plus",
       "repository": "theboy181/drmario64_recomp_plus",
